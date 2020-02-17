@@ -1,2 +1,2 @@
 # BERTFeatureExtraction
-BERT feature extraction based on pretrained model 'bert-base-uncased' 
+BERT feature extraction based on pre-trained model 'bert-base-uncased' 
